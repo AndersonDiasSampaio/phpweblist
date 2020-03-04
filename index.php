@@ -24,7 +24,11 @@
     </div>
 
     <!-- Login Form -->
-   <?php include "Components\loginform.php"?>
+   <?php 
+  
+   include "Components\loginform.php";
+   
+   ?>
 
     <!-- Remind Passowrd -->
     <div id="formFooter">
